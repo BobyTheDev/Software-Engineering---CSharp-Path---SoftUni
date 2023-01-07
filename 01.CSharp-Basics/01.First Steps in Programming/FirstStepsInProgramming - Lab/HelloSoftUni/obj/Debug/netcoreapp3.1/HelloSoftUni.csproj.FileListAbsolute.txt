@@ -1,0 +1,14 @@
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Lab\HelloSoftUni\bin\Debug\netcoreapp3.1\HelloSoftUni.exe
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Lab\HelloSoftUni\bin\Debug\netcoreapp3.1\HelloSoftUni.deps.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Lab\HelloSoftUni\bin\Debug\netcoreapp3.1\HelloSoftUni.runtimeconfig.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Lab\HelloSoftUni\bin\Debug\netcoreapp3.1\HelloSoftUni.runtimeconfig.dev.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Lab\HelloSoftUni\bin\Debug\netcoreapp3.1\HelloSoftUni.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Lab\HelloSoftUni\bin\Debug\netcoreapp3.1\HelloSoftUni.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Lab\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.csproj.AssemblyReference.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Lab\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Lab\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.AssemblyInfoInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Lab\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.AssemblyInfo.cs
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Lab\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.csproj.CoreCompileInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Lab\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Lab\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Lab\HelloSoftUni\obj\Debug\netcoreapp3.1\HelloSoftUni.genruntimeconfig.cache
