@@ -1,0 +1,14 @@
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.exe
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.deps.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.runtimeconfig.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.runtimeconfig.dev.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\FoodDelivery\bin\Debug\netcoreapp3.1\FoodDelivery.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.csproj.AssemblyReference.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.AssemblyInfoInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.AssemblyInfo.cs
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\FoodDelivery\obj\Debug\netcoreapp3.1\FoodDelivery.genruntimeconfig.cache
