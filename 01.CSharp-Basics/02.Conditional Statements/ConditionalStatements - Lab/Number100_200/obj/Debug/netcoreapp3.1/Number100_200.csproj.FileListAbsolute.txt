@@ -1,0 +1,14 @@
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\Number100_200\bin\Debug\netcoreapp3.1\Number100_200.exe
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\Number100_200\bin\Debug\netcoreapp3.1\Number100_200.deps.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\Number100_200\bin\Debug\netcoreapp3.1\Number100_200.runtimeconfig.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\Number100_200\bin\Debug\netcoreapp3.1\Number100_200.runtimeconfig.dev.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\Number100_200\bin\Debug\netcoreapp3.1\Number100_200.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\Number100_200\bin\Debug\netcoreapp3.1\Number100_200.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\Number100_200\obj\Debug\netcoreapp3.1\Number100_200.csproj.AssemblyReference.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\Number100_200\obj\Debug\netcoreapp3.1\Number100_200.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\Number100_200\obj\Debug\netcoreapp3.1\Number100_200.AssemblyInfoInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\Number100_200\obj\Debug\netcoreapp3.1\Number100_200.AssemblyInfo.cs
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\Number100_200\obj\Debug\netcoreapp3.1\Number100_200.csproj.CoreCompileInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\Number100_200\obj\Debug\netcoreapp3.1\Number100_200.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\Number100_200\obj\Debug\netcoreapp3.1\Number100_200.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\Number100_200\obj\Debug\netcoreapp3.1\Number100_200.genruntimeconfig.cache

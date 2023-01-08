@@ -1,0 +1,14 @@
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\SpeedInfo\bin\Debug\netcoreapp3.1\SpeedInfo.exe
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\SpeedInfo\bin\Debug\netcoreapp3.1\SpeedInfo.deps.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\SpeedInfo\bin\Debug\netcoreapp3.1\SpeedInfo.runtimeconfig.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\SpeedInfo\bin\Debug\netcoreapp3.1\SpeedInfo.runtimeconfig.dev.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\SpeedInfo\bin\Debug\netcoreapp3.1\SpeedInfo.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\SpeedInfo\bin\Debug\netcoreapp3.1\SpeedInfo.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\SpeedInfo\obj\Debug\netcoreapp3.1\SpeedInfo.csproj.AssemblyReference.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\SpeedInfo\obj\Debug\netcoreapp3.1\SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\SpeedInfo\obj\Debug\netcoreapp3.1\SpeedInfo.AssemblyInfoInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\SpeedInfo\obj\Debug\netcoreapp3.1\SpeedInfo.AssemblyInfo.cs
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\SpeedInfo\obj\Debug\netcoreapp3.1\SpeedInfo.csproj.CoreCompileInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\SpeedInfo\obj\Debug\netcoreapp3.1\SpeedInfo.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\SpeedInfo\obj\Debug\netcoreapp3.1\SpeedInfo.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\SpeedInfo\obj\Debug\netcoreapp3.1\SpeedInfo.genruntimeconfig.cache
