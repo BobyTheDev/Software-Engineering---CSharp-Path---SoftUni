@@ -1,0 +1,14 @@
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\Repainting\bin\Debug\netcoreapp3.1\Repainting.exe
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\Repainting\bin\Debug\netcoreapp3.1\Repainting.deps.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\Repainting\bin\Debug\netcoreapp3.1\Repainting.runtimeconfig.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\Repainting\bin\Debug\netcoreapp3.1\Repainting.runtimeconfig.dev.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\Repainting\bin\Debug\netcoreapp3.1\Repainting.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\Repainting\bin\Debug\netcoreapp3.1\Repainting.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\Repainting\obj\Debug\netcoreapp3.1\Repainting.csproj.AssemblyReference.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\Repainting\obj\Debug\netcoreapp3.1\Repainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\Repainting\obj\Debug\netcoreapp3.1\Repainting.AssemblyInfoInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\Repainting\obj\Debug\netcoreapp3.1\Repainting.AssemblyInfo.cs
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\Repainting\obj\Debug\netcoreapp3.1\Repainting.csproj.CoreCompileInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\Repainting\obj\Debug\netcoreapp3.1\Repainting.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\Repainting\obj\Debug\netcoreapp3.1\Repainting.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\Repainting\obj\Debug\netcoreapp3.1\Repainting.genruntimeconfig.cache

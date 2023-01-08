@@ -1,0 +1,14 @@
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\SuppliesforSchl\bin\Debug\netcoreapp3.1\SuppliesforSchl.exe
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\SuppliesforSchl\bin\Debug\netcoreapp3.1\SuppliesforSchl.deps.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\SuppliesforSchl\bin\Debug\netcoreapp3.1\SuppliesforSchl.runtimeconfig.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\SuppliesforSchl\bin\Debug\netcoreapp3.1\SuppliesforSchl.runtimeconfig.dev.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\SuppliesforSchl\bin\Debug\netcoreapp3.1\SuppliesforSchl.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\SuppliesforSchl\bin\Debug\netcoreapp3.1\SuppliesforSchl.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\SuppliesforSchl\obj\Debug\netcoreapp3.1\SuppliesforSchl.csproj.AssemblyReference.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\SuppliesforSchl\obj\Debug\netcoreapp3.1\SuppliesforSchl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\SuppliesforSchl\obj\Debug\netcoreapp3.1\SuppliesforSchl.AssemblyInfoInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\SuppliesforSchl\obj\Debug\netcoreapp3.1\SuppliesforSchl.AssemblyInfo.cs
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\SuppliesforSchl\obj\Debug\netcoreapp3.1\SuppliesforSchl.csproj.CoreCompileInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\SuppliesforSchl\obj\Debug\netcoreapp3.1\SuppliesforSchl.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\SuppliesforSchl\obj\Debug\netcoreapp3.1\SuppliesforSchl.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\SuppliesforSchl\obj\Debug\netcoreapp3.1\SuppliesforSchl.genruntimeconfig.cache
