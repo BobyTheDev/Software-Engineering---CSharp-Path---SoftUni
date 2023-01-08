@@ -1,0 +1,14 @@
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\BasketballEquip\bin\Debug\netcoreapp3.1\BasketballEquip.exe
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\BasketballEquip\bin\Debug\netcoreapp3.1\BasketballEquip.deps.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\BasketballEquip\bin\Debug\netcoreapp3.1\BasketballEquip.runtimeconfig.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\BasketballEquip\bin\Debug\netcoreapp3.1\BasketballEquip.runtimeconfig.dev.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\BasketballEquip\bin\Debug\netcoreapp3.1\BasketballEquip.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\BasketballEquip\bin\Debug\netcoreapp3.1\BasketballEquip.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\BasketballEquip\obj\Debug\netcoreapp3.1\BasketballEquip.csproj.AssemblyReference.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\BasketballEquip\obj\Debug\netcoreapp3.1\BasketballEquip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\BasketballEquip\obj\Debug\netcoreapp3.1\BasketballEquip.AssemblyInfoInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\BasketballEquip\obj\Debug\netcoreapp3.1\BasketballEquip.AssemblyInfo.cs
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\BasketballEquip\obj\Debug\netcoreapp3.1\BasketballEquip.csproj.CoreCompileInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\BasketballEquip\obj\Debug\netcoreapp3.1\BasketballEquip.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\BasketballEquip\obj\Debug\netcoreapp3.1\BasketballEquip.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\FirstStepsInProgramming - Exercise\BasketballEquip\obj\Debug\netcoreapp3.1\BasketballEquip.genruntimeconfig.cache
