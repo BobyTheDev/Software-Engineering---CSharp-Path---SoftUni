@@ -1,0 +1,14 @@
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.exe
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.deps.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.runtimeconfig.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.runtimeconfig.dev.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Time+15Minutes\bin\Debug\netcoreapp3.1\Time+15Minutes.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.csproj.AssemblyReference.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.AssemblyInfoInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.AssemblyInfo.cs
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.csproj.CoreCompileInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Time+15Minutes\obj\Debug\netcoreapp3.1\Time+15Minutes.genruntimeconfig.cache
