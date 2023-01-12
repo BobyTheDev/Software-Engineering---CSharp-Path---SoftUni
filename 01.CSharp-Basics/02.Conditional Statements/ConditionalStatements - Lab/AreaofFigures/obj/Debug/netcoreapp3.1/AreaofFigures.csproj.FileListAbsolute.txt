@@ -1,0 +1,14 @@
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\AreaofFigures\bin\Debug\netcoreapp3.1\AreaofFigures.exe
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\AreaofFigures\bin\Debug\netcoreapp3.1\AreaofFigures.deps.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\AreaofFigures\bin\Debug\netcoreapp3.1\AreaofFigures.runtimeconfig.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\AreaofFigures\bin\Debug\netcoreapp3.1\AreaofFigures.runtimeconfig.dev.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\AreaofFigures\bin\Debug\netcoreapp3.1\AreaofFigures.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\AreaofFigures\bin\Debug\netcoreapp3.1\AreaofFigures.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\AreaofFigures\obj\Debug\netcoreapp3.1\AreaofFigures.csproj.AssemblyReference.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\AreaofFigures\obj\Debug\netcoreapp3.1\AreaofFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\AreaofFigures\obj\Debug\netcoreapp3.1\AreaofFigures.AssemblyInfoInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\AreaofFigures\obj\Debug\netcoreapp3.1\AreaofFigures.AssemblyInfo.cs
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\AreaofFigures\obj\Debug\netcoreapp3.1\AreaofFigures.csproj.CoreCompileInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\AreaofFigures\obj\Debug\netcoreapp3.1\AreaofFigures.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\AreaofFigures\obj\Debug\netcoreapp3.1\AreaofFigures.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\AreaofFigures\obj\Debug\netcoreapp3.1\AreaofFigures.genruntimeconfig.cache
