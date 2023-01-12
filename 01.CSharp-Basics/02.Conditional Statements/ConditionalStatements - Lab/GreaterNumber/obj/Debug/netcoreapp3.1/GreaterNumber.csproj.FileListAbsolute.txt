@@ -1,0 +1,14 @@
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\GreaterNumber\bin\Debug\netcoreapp3.1\GreaterNumber.exe
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\GreaterNumber\bin\Debug\netcoreapp3.1\GreaterNumber.deps.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\GreaterNumber\bin\Debug\netcoreapp3.1\GreaterNumber.runtimeconfig.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\GreaterNumber\bin\Debug\netcoreapp3.1\GreaterNumber.runtimeconfig.dev.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\GreaterNumber\bin\Debug\netcoreapp3.1\GreaterNumber.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\GreaterNumber\bin\Debug\netcoreapp3.1\GreaterNumber.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.csproj.AssemblyReference.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.AssemblyInfoInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.AssemblyInfo.cs
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\GreaterNumber\obj\Debug\netcoreapp3.1\GreaterNumber.genruntimeconfig.cache

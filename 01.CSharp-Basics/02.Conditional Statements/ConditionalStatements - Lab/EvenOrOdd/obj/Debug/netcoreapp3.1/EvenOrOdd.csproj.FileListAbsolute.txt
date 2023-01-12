@@ -1,0 +1,14 @@
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.exe
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.deps.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.runtimeconfig.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.runtimeconfig.dev.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.csproj.AssemblyReference.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.AssemblyInfoInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.AssemblyInfo.cs
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Lab\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.genruntimeconfig.cache
