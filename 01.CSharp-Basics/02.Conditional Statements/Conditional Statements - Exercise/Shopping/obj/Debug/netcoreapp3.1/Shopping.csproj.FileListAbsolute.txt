@@ -1,0 +1,14 @@
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Shopping\bin\Debug\netcoreapp3.1\Shopping.exe
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Shopping\bin\Debug\netcoreapp3.1\Shopping.deps.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Shopping\bin\Debug\netcoreapp3.1\Shopping.runtimeconfig.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Shopping\bin\Debug\netcoreapp3.1\Shopping.runtimeconfig.dev.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Shopping\bin\Debug\netcoreapp3.1\Shopping.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Shopping\bin\Debug\netcoreapp3.1\Shopping.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Shopping\obj\Debug\netcoreapp3.1\Shopping.csproj.AssemblyReference.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Shopping\obj\Debug\netcoreapp3.1\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Shopping\obj\Debug\netcoreapp3.1\Shopping.AssemblyInfoInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Shopping\obj\Debug\netcoreapp3.1\Shopping.AssemblyInfo.cs
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Shopping\obj\Debug\netcoreapp3.1\Shopping.csproj.CoreCompileInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Shopping\obj\Debug\netcoreapp3.1\Shopping.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Shopping\obj\Debug\netcoreapp3.1\Shopping.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\01.First Steps in Programming\ConditionalStatements - Exercise\Shopping\obj\Debug\netcoreapp3.1\Shopping.genruntimeconfig.cache
