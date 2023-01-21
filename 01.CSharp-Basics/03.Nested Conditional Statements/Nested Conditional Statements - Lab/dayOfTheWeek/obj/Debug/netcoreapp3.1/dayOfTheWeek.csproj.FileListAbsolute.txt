@@ -1,0 +1,14 @@
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\dayOfTheWeek\bin\Debug\netcoreapp3.1\dayOfTheWeek.exe
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\dayOfTheWeek\bin\Debug\netcoreapp3.1\dayOfTheWeek.deps.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\dayOfTheWeek\bin\Debug\netcoreapp3.1\dayOfTheWeek.runtimeconfig.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\dayOfTheWeek\bin\Debug\netcoreapp3.1\dayOfTheWeek.runtimeconfig.dev.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\dayOfTheWeek\bin\Debug\netcoreapp3.1\dayOfTheWeek.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\dayOfTheWeek\bin\Debug\netcoreapp3.1\dayOfTheWeek.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\dayOfTheWeek\obj\Debug\netcoreapp3.1\dayOfTheWeek.csproj.AssemblyReference.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\dayOfTheWeek\obj\Debug\netcoreapp3.1\dayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\dayOfTheWeek\obj\Debug\netcoreapp3.1\dayOfTheWeek.AssemblyInfoInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\dayOfTheWeek\obj\Debug\netcoreapp3.1\dayOfTheWeek.AssemblyInfo.cs
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\dayOfTheWeek\obj\Debug\netcoreapp3.1\dayOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\dayOfTheWeek\obj\Debug\netcoreapp3.1\dayOfTheWeek.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\dayOfTheWeek\obj\Debug\netcoreapp3.1\dayOfTheWeek.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\dayOfTheWeek\obj\Debug\netcoreapp3.1\dayOfTheWeek.genruntimeconfig.cache
