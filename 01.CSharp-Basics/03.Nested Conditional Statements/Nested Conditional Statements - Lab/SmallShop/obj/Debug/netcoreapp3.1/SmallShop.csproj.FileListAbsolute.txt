@@ -1,0 +1,14 @@
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.exe
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.deps.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.runtimeconfig.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.runtimeconfig.dev.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\SmallShop\bin\Debug\netcoreapp3.1\SmallShop.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.csproj.AssemblyReference.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.AssemblyInfoInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.AssemblyInfo.cs
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.csproj.CoreCompileInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\SmallShop\obj\Debug\netcoreapp3.1\SmallShop.genruntimeconfig.cache

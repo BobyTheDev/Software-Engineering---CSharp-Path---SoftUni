@@ -1,0 +1,14 @@
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.exe
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.deps.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.runtimeconfig.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.runtimeconfig.dev.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\PersonalTitles\bin\Debug\netcoreapp3.1\PersonalTitles.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.csproj.AssemblyReference.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.AssemblyInfoInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.AssemblyInfo.cs
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.csproj.CoreCompileInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\03.Nested Conditional Statements\PersonalTitles\obj\Debug\netcoreapp3.1\PersonalTitles.genruntimeconfig.cache
