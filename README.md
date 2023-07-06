@@ -9,4 +9,4 @@ Includes repos from the following courses:
 
 | Index | Course Curriculum                                                                                       | Certificate
 |------:|:--------------------------------------------------------------------------------------------------------| :---
-|   01. | C# Basics                         | [HERE](https://softuni.bg//Content/images/certificates/logo-white.svg)
+|   01. | C# Basics                         | [HERE](https://softuni.bg/certificates/certificates/converttoimage/159331?code=e1fa0a34)
