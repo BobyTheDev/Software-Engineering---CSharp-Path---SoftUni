@@ -1,0 +1,14 @@
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\05.While Loop\Vacation\bin\Debug\netcoreapp3.1\Vacation.exe
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\05.While Loop\Vacation\bin\Debug\netcoreapp3.1\Vacation.deps.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\05.While Loop\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\05.While Loop\Vacation\bin\Debug\netcoreapp3.1\Vacation.runtimeconfig.dev.json
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\05.While Loop\Vacation\bin\Debug\netcoreapp3.1\Vacation.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\05.While Loop\Vacation\bin\Debug\netcoreapp3.1\Vacation.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\05.While Loop\Vacation\obj\Debug\netcoreapp3.1\Vacation.csproj.AssemblyReference.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\05.While Loop\Vacation\obj\Debug\netcoreapp3.1\Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\05.While Loop\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfoInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\05.While Loop\Vacation\obj\Debug\netcoreapp3.1\Vacation.AssemblyInfo.cs
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\05.While Loop\Vacation\obj\Debug\netcoreapp3.1\Vacation.csproj.CoreCompileInputs.cache
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\05.While Loop\Vacation\obj\Debug\netcoreapp3.1\Vacation.dll
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\05.While Loop\Vacation\obj\Debug\netcoreapp3.1\Vacation.pdb
+C:\Software-Engineering---CSharp-Path---SoftUni\01.CSharp-Basics\05.While Loop\Vacation\obj\Debug\netcoreapp3.1\Vacation.genruntimeconfig.cache
